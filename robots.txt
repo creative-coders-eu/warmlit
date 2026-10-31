@@ -1,0 +1,5 @@
+# Warmlit public website. Everything here is public.
+User-agent: *
+Allow: /
+
+Sitemap: https://creative-coders-eu.github.io/warmlit/sitemap.xml
